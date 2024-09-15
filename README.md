@@ -1,3 +1,5 @@
+[![Build Status](https://github.com/harshadnawathe/geektrust-ride-sharing/actions/workflows/go-build.yml/badge.svg)](https://github.com/harshadnawathe/geektrust-ride-sharing/actions/workflows/go-build.yml)
+
 # Geektrust Rise Sharing
 
 This repository contains the solution to the
