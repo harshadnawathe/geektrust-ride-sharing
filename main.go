@@ -17,7 +17,6 @@ func main() {
 
 	filePath := cliArgs[0]
 	file, err := os.Open(filePath)
-
 	if err != nil {
 		fmt.Println("Error opening the input file")
 
@@ -34,6 +33,5 @@ func main() {
 
 			Add your code here to process the input commands
 		*/
-
 	}
 }
